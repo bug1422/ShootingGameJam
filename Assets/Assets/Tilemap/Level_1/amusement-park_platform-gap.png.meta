@@ -1,0 +1,527 @@
+fileFormatVersion: 2
+guid: c49f603d62b5df0468bf943f266cf4ef
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: amusement-park_platform-gap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 35.5}
+        - {x: -48, y: -35.5}
+        - {x: 48, y: -35.5}
+        - {x: 48, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4716a517dd5ed6946a83dda9aebce7a4
+      internalID: 554225805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amusement-park_platform-gap_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 35.5}
+        - {x: -48, y: -35.5}
+        - {x: 48, y: -35.5}
+        - {x: 48, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc1df6409df0b64da22dda037de9083
+      internalID: -13127330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amusement-park_platform-gap_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 35.5}
+        - {x: -48, y: -35.5}
+        - {x: 48, y: -35.5}
+        - {x: 48, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fba24d0987f994abc7ab5c6dd0c2ec
+      internalID: 1381330322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amusement-park_platform-gap_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 35.5}
+        - {x: -48, y: -35.5}
+        - {x: 48, y: -35.5}
+        - {x: 48, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c033672017d3f0146a782ade525fd467
+      internalID: 423582150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amusement-park_platform-gap_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 35.5}
+        - {x: -48, y: -35.5}
+        - {x: 48, y: -35.5}
+        - {x: 48, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750efbb4914544847bd836e418ae7b57
+      internalID: -1861234984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amusement-park_platform-gap_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 35.5}
+        - {x: -48, y: -35.5}
+        - {x: 48, y: -35.5}
+        - {x: 48, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a07e12df2a39cc429c70c097438e809
+      internalID: -580013099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amusement-park_platform-gap_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 35.5}
+        - {x: -48, y: -35.5}
+        - {x: 13, y: -35.5}
+        - {x: -10, y: -2.5}
+        - {x: 8, y: 35.5}
+      physicsShape:
+      - - {x: -48, y: 35.5}
+        - {x: -48, y: -35.5}
+        - {x: 11, y: -35.5}
+        - {x: -11, y: 6.5}
+        - {x: 8, y: 35.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1962fea7160273a45a0f0820d653104e
+      internalID: -313277960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amusement-park_platform-gap_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 35.5}
+        - {x: 0, y: -6.5}
+        - {x: -1, y: -15.5}
+        - {x: -18, y: -24.5}
+        - {x: -22, y: -35.5}
+        - {x: 48, y: -35.5}
+        - {x: 48, y: 35.5}
+      physicsShape:
+      - - {x: -23, y: 35.5}
+        - {x: -2, y: -7.5}
+        - {x: -23, y: -35.5}
+        - {x: 48, y: -35.5}
+        - {x: 48, y: 35.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c30d932eed7114d86bcba687090842
+      internalID: -1893931822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amusement-park_platform-gap_8
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580cafecb56f15e4aae90f0f6cceab23
+      internalID: 451553886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amusement-park_platform-gap_9
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 35.5}
+        - {x: -48, y: -35.5}
+        - {x: 48, y: -35.5}
+        - {x: 48, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3567d56f6bb064b9dfe75df9e0fc7b
+      internalID: 344373397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amusement-park_platform-gap_10
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 35.5}
+        - {x: -48, y: -35.5}
+        - {x: 48, y: -35.5}
+        - {x: 48, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4068adcb6dbd4934c89d7761897e04da
+      internalID: -807308570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amusement-park_platform-gap_11
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 35.5}
+        - {x: -48, y: -35.5}
+        - {x: 48, y: -35.5}
+        - {x: 48, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0d6327c00a6ae4c82819fd880436f0
+      internalID: 592612129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amusement-park_platform-gap_12
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 0
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 35.5}
+        - {x: -48, y: -35.5}
+        - {x: 48, y: -35.5}
+        - {x: 48, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f617d4efefac540aa42a80219d41aa
+      internalID: -1508366019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amusement-park_platform-gap_13
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 35.5}
+        - {x: -48, y: -35.5}
+        - {x: 48, y: -35.5}
+        - {x: 48, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516897bc900867148b272193de303d99
+      internalID: 53531885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amusement-park_platform-gap_14
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 35.5}
+        - {x: -48, y: -35.5}
+        - {x: 48, y: -35.5}
+        - {x: 48, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0522375d52920644485bee07fd6cce38
+      internalID: -789483922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      amusement-park_platform-gap_0: 554225805
+      amusement-park_platform-gap_1: -13127330
+      amusement-park_platform-gap_10: -807308570
+      amusement-park_platform-gap_11: 592612129
+      amusement-park_platform-gap_12: -1508366019
+      amusement-park_platform-gap_13: 53531885
+      amusement-park_platform-gap_14: -789483922
+      amusement-park_platform-gap_2: 1381330322
+      amusement-park_platform-gap_3: 423582150
+      amusement-park_platform-gap_4: -1861234984
+      amusement-park_platform-gap_5: -580013099
+      amusement-park_platform-gap_6: -313277960
+      amusement-park_platform-gap_7: -1893931822
+      amusement-park_platform-gap_8: 451553886
+      amusement-park_platform-gap_9: 344373397
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

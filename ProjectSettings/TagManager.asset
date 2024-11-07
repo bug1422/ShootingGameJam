@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Hostile
+  - Decal
+  - Spawner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Terrain
+  - Water
+  - UI
+  - Entity
+  - Object
+  - Ground
+  - Bullet
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3553609957
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: DecoBack
+    uniqueID: 3284767929
+    locked: 0
+  - name: Terrain
+    uniqueID: 2024891207
+    locked: 0
+  - name: Entity
+    uniqueID: 102227963
+    locked: 0
+  - name: Player
+    uniqueID: 747066377
+    locked: 0
+  - name: Bullet
+    uniqueID: 4069600357
+    locked: 0
+  - name: DecoFront
+    uniqueID: 4171789383
+    locked: 0
